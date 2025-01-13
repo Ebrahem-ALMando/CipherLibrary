@@ -45,6 +45,8 @@ CipherLibrary
     ├── PlayfairCipherTests.cs
     └── VigenèreCipherTests.cs
 ```
+![CipherLibrary](https://github.com/user-attachments/assets/c05f8545-9126-4abc-b949-9e4adc55facd)
+
 ## Description of Components:
 
 
@@ -61,7 +63,7 @@ CipherLibrary
 - **Tests:** The Tests folder contains unit tests for each cipher, ensuring that they function correctly under various scenarios.
 
 ## Features:
-- **Maintainability: **The library is designed with maintainability in mind. It allows for easy addition of new ciphers in the future by simply adding new classes that implement the ICipher interface.
+- **Maintainability:** The library is designed with maintainability in mind. It allows for easy addition of new ciphers in the future by simply adding new classes that implement the ICipher interface.
 
 - **Test-Driven Development:** The library is supported by unit tests for each cipher algorithm to ensure that encryption and decryption operations are correct.
 
